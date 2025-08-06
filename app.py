@@ -13,7 +13,7 @@ st.set_page_config(
 
 # --- 2. API & DATA SETUP ---
 
-GOOGLE_API_KEY = " " # Your api key
+GOOGLE_API_KEY = "AIzaSyAxsD4TZEMyAzncY6MtS8J6ELSHlU8AFkg" # Your api key
 
 # Configure the generative AI model
 if GOOGLE_API_KEY and GOOGLE_API_KEY != "ApiKey":
