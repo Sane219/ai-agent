@@ -1,0 +1,47 @@
+[
+    {
+        "scheme_name": "Ayushman Bharat Pradhan Mantri Jan Arogya Yojana (PM-JAY)",
+        "description": "A flagship scheme of the Government of India to provide health coverage of Rs. 5 lakhs per family per year for secondary and tertiary care hospitalization to over 12 crore poor and vulnerable families.",
+        "category": "Health",
+        "target_state": "All",
+        "min_age": 0,
+        "max_age": 100,
+        "min_income": 0,
+        "max_income": 250000,
+        "target_gender": "Any",
+        "eligibility_criteria": "Families identified as poor and vulnerable based on the Socio-Economic Caste Census (SECC) 2011 for rural and urban areas. All families previously covered by Rashtriya Swasthya Bima Yojana (RSBY) are also included.",
+        "documents_required": "Aadhaar Card, Ration Card, PM-JAY e-card (if available), and a government-certified ID.",
+        "application_steps": "No specific application is needed for eligible beneficiaries as they are identified from the SECC database. Beneficiaries can get their PM-JAY e-card from a Common Service Center (CSC) or an empaneled hospital.",
+        "official_link": "https://nha.gov.in/PM-JAY"
+    },
+    {
+        "scheme_name": "Pradhan Mantri Kisan Samman Nidhi (PM-KISAN)",
+        "description": "An income support scheme where all small and marginal farmer families get up to ₹6,000 per year in three installments. This money can be used for procuring inputs for agriculture and allied activities as well as for domestic needs.",
+        "category": "Agriculture",
+        "target_state": "All",
+        "min_age": 18,
+        "max_age": 75,
+        "min_income": 0,
+        "max_income": 1000000,
+        "target_gender": "Any",
+        "eligibility_criteria": "All landholding farmer families in the country are eligible, subject to certain exclusion criteria related to higher income status.",
+        "documents_required": "Aadhaar card, Citizenship certificate, Landholding papers, Bank account details.",
+        "application_steps": "Farmers can register through the official PM-KISAN portal (pmkisan.gov.in), through Common Service Centers (CSCs), or via the state-designated nodal officers.",
+        "official_link": "https://pmkisan.gov.in/"
+    },
+    {
+        "scheme_name": "Pradhan Mantri Mudra Yojana (PMMY)",
+        "description": "A scheme to provide loans up to ₹10 lakh to non-corporate, non-farm small/micro enterprises. Loans are given by Commercial Banks, RRBs, Small Finance Banks, MFIs and NBFCs.",
+        "category": "Entrepreneurship",
+        "target_state": "All",
+        "min_age": 18,
+        "max_age": 65,
+        "min_income": 0,
+        "max_income": 5000000,
+        "target_gender": "Any",
+        "eligibility_criteria": "Any Indian Citizen who has a business plan for a non-farm sector income generating activity such as manufacturing, processing, trading or service sector and whose credit need is less than ₹10 lakh.",
+        "documents_required": "Proof of identity, Proof of address, Business plan, Application form, and other documents as required by the lending institution.",
+        "application_steps": "1. Approach a nearby branch of a bank or financial institution. 2. Submit the business plan and application form (available online). 3. Complete the loan formalities as per the lender's instructions.",
+        "official_link": "https://www.mudra.org.in/"
+    }
+]
